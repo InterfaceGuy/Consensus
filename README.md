@@ -1,1 +1,7 @@
 # Consensus
+
+Consensus is a state of deep alignment a collective can achieve in the context of a choice-making process that fundamentally transcends the trade-offs of compromise. In a democratic voting system, decisions often result from compromise, where a 51% majority imposes its will on the 49%, leading to fragmentation and polarization. This democratic process, characterized by decisions, often results in win-lose outcomes where the majority’s preference is enforced, reflecting a forceful process where might makes right.
+
+  
+
+In contrast, consensus corresponds to true choice, where the entire system agrees on what is best for the whole, resulting in an omni-win-win outcome. For consensus to be achieved, everyone involved must agree and feel that the decision benefits all, as no one will consent to something that harms them. Achieving consensus requires a feedback loop allowing the collective to reformulate issues until they are rich and aligned enough with the collective will that everyone feels heard and is intrinsically motivated to move in the same direction. This process creates a highly coherent and effective outcome, similar to atomic magnetic moments aligning in the same direction, resulting in a significantly stronger collective impact.
